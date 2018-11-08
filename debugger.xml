@@ -7,7 +7,9 @@
     <debuggers>
       <debugger id="dotnet_debugger">
         <configuration>
-          <option name="enableExternalSourceDebug" value="false" />
+          <option name="remappedSourceLocationsMap">
+            <map />
+          </option>
         </configuration>
       </debugger>
       <debugger id="javascript">
