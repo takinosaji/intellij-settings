@@ -12,5 +12,6 @@
     <mask>*.as</mask>
     <mask>*.css</mask>
     <mask>*.mxml</mask>
+    <mask>*.csproj</mask>
   </component>
 </application>
