@@ -1,8 +1,0 @@
-<keymap version="1" name="Rider custom" parent="Rider">
-  <action id="EditorToggleShowWhitespaces">
-    <keyboard-shortcut first-keystroke="alt s" />
-  </action>
-  <action id="PinActiveTab">
-    <keyboard-shortcut first-keystroke="alt p" />
-  </action>
-</keymap>
