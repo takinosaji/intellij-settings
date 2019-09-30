@@ -1,4 +1,4 @@
-<keymap version="1" name="ReSharper custom" parent="ReSharper">
+<keymap version="1" name="Master" parent="ReSharper">
   <action id="EditorToggleShowWhitespaces">
     <keyboard-shortcut first-keystroke="alt s" />
   </action>
